@@ -1,3 +1,20 @@
+
+
+Configure the user name.
+$ git config --global user.name "AbhishekGandre";
+
+Configure the user email.
+$ git config --global user.email "gandreabhishek@gmail.com";
+
+Config list
+$ git config --list
+
+Clone the repository
+$ git clone https://github.com/Git
+
+Check Status
+git status
+
 Four Stages of Git:
 1.Untrack
 2.Modified
