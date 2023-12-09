@@ -1,0 +1,6 @@
+Four Stages of Git:
+1.Untrack
+2.Modified
+3.Unmodified
+4.Staged
+
