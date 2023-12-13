@@ -1,31 +1,43 @@
-
+------------------------------------------------------------
 
 Configure the user name.
 $ git config --global user.name "AbhishekGandre";
-
+-----------------------------------------------------------
 Configure the user email.
 $ git config --global user.email "gandreabhishek@gmail.com";
-
+-------------------------------------------------
 Config list
 $ git config --list
-
+----------------------------------------------------
+Git initiation
+$git init
+--------------------------------------------------
 Clone the repository
 $ git clone https://github.com/Git
-
+-------------------------------------------------
 Check Status
 git status
-
+----------------------------------------------------
 Four Stages of Git:
 1.Untrack
 2.Modified
 3.Unmodified
 4.Staged
-
+---------------------------------------------------
 For pushed files on github
-git push origin main
+$ git push origin main
 
 origin here git remote directory name
 main is current branch.
 
+----------------------------------------------
 
+How to add remote directory in git
+$ git remote add remoteRepoName repoPath
+$ git remote add origin https://github.com/AbhishekGandre/Git.git
+$ git remote -v
 
+-----------------------------------------------------------------
+How to rename branch name
+$ git branch
+$ git branch -m origin2
