@@ -56,5 +56,12 @@ $ git diff branchName
 $ git merge branchName
 
 -----------------------------------------------------------------new featurebranch -----
+<<<<<<< HEAD
 Pull Content from GitHub to git
 $ git pull origin main
+=======
+new feature++++
+
+Pull Request
+It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
+>>>>>>> 51ae11767e5464f245baf9241d762ce8dfb124eb
