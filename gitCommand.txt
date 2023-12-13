@@ -57,9 +57,13 @@ $ git merge branchName
 Pull Request
 It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
 -----------------------------------------------------------------new featurebranch -----
-<<<<<<< HEAD
+
 Pull Content from GitHub to git
 $ git pull origin main
+
+----------------------------------------------
+Git Undo changes
+$ git reset file.exttension
 
 
 
