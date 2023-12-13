@@ -41,3 +41,14 @@ $ git remote -v
 How to rename branch name
 $ git branch
 $ git branch -m origin2
+
+Create a new branch
+$ git checkout -b featurebranch
+
+Select branch
+$ git checkout branchName
+
+Delete Branch
+$ git branch -d branchName
+
+===============new featurebranch ================================
