@@ -46,4 +46,4 @@ Create a new branch
 $ git checkout -b featurebranch
 
 Select branch
-$ git checkout main
+$ git checkout branchName
