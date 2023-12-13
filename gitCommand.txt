@@ -57,3 +57,6 @@ $ git merge branchName
 
 -----------------------------------------------------------------new featurebranch -----
 new feature++++
+
+Pull Request
+It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
