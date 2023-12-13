@@ -51,4 +51,8 @@ $ git checkout branchName
 Delete Branch
 $ git branch -d branchName
 
+How to merge two branches
+$ git diff branchName
+$ git merge branchName
 
+-----------------------------------------------------------------new featurebranch -----
