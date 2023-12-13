@@ -21,3 +21,11 @@ Four Stages of Git:
 3.Unmodified
 4.Staged
 
+For pushed files on github
+git push origin main
+
+origin here git remote directory name
+main is current branch.
+
+
+
