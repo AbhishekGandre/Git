@@ -56,3 +56,5 @@ $ git diff branchName
 $ git merge branchName
 
 -----------------------------------------------------------------new featurebranch -----
+Pull Content from GitHub to git
+$ git pull origin main
