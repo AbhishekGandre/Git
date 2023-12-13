@@ -47,3 +47,8 @@ $ git checkout -b featurebranch
 
 Select branch
 $ git checkout branchName
+
+Delete Branch
+$ git branch -d branchName
+
+
